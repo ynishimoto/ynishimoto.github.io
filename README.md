@@ -1,3 +1,5 @@
+theme: Architect
+
 # ynishimoto.github.io
 person portfolio website
 
