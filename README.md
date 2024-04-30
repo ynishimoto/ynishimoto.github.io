@@ -1,5 +1,3 @@
-# ynishimoto.github.io
-
 # Forecasting
 
 ```python
