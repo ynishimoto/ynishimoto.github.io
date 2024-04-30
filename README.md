@@ -1,5 +1,5 @@
 # ynishimoto.github.io
-person portfolio website
+personal portfolio website
 
 Headers
 # H1
